@@ -12,7 +12,7 @@ json = "0.12.4"
 log = { version = "0.4.6", features = ["std"] }
 png = "0.17"
 termcolor = "1"
-time = "0.1.36"
+time = "0.2.0"
 wild = "2.0.2"
 
 [profile.release]
